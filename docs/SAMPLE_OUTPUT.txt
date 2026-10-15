@@ -1,0 +1,47 @@
+============================================================
+                    KERNEL MONITOR
+============================================================
+
+Monitor PID      : 638
+Current Time     : Thu Oct 15 17:12:49 2026
+
+---------------- SYSTEM INFORMATION ----------------
+System Uptime   : 00:14:35
+Memory Usage    : 6.61%
+Total Memory    : 7.58 GB
+Available Memory: 7.08 GB
+Free Memory     : 7.04 GB
+
+---------------- CPU INFORMATION --------------------
+CPU Usage       : 0.11%
+
+---------------- PROCESS INFORMATION ----------------
+
+PID      STATE    MEMORY       PROCESS
+------------------------------------------------------------
+1        S        13068    KB   systemd
+2        S        2208     KB   init-systemd(Ub
+6        S        2132     KB   init
+52       S        16176    KB   systemd-journal
+98       S        6604     KB   systemd-udevd
+169      S        13192    KB   systemd-resolve
+170      S        7984     KB   systemd-timesyn
+176      S        2684     KB   cron
+177      S        5356     KB   dbus-daemon
+189      S        8852     KB   systemd-logind
+192      S        12684    KB   wsl-pro-service
+201      S        5948     KB   rsyslogd
+203      S        1968     KB   agetty
+223      S        23168    KB   unattended-upgr
+302      S        1112     KB   SessionLeader
+305      R        1248     KB   Relay(307)
+307      S        5468     KB   bash
+308      S        4660     KB   login
+352      S        11616    KB   systemd
+353      S        3576     KB   (sd-pam)
+
+Processes Displayed: 20
+
+============================================================
+Refreshing every 2 seconds...
+Press CTRL+C to exit.
